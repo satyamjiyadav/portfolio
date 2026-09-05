@@ -10,8 +10,8 @@ An ultra-performant, 3D interactive engineering portfolio engineered for **Satya
 
 | Component | Access / URL | Description |
 | :--- | :--- | :--- |
-| 🚀 **Live Portfolio** | [http://localhost:5173](http://localhost:5173) | Full 3D Interactive Experience & Architecture Simulator |
-| ⚡ **Live Architecture Simulator** | [http://localhost:5173/#simulator](http://localhost:5173/#simulator) | Interactive pipeline for PayFast (Go/Kafka) & VaultMind (RAG) |
+| 🚀 **Live Portfolio** | [https://satyam-portfolio-n1yu.onrender.com](https://satyam-portfolio-n1yu.onrender.com) | Full 3D Interactive Experience & Architecture Simulator |
+| ⚡ **Live Architecture Simulator** | [https://satyam-portfolio-n1yu.onrender.com/#simulator](https://satyam-portfolio-n1yu.onrender.com/#simulator) | Interactive pipeline for PayFast (Go/Kafka) & VaultMind (RAG) |
 | 💻 **Hacker CLI Terminal** | Press `Cmd + K` / `Ctrl + K` | Interactive shell terminal for engineers & recruiters |
 | 🔐 **Admin Control Center** | `Cmd + Shift + A` (or Lock icon) | Cryptographically secured portal for live resume & project management |
 

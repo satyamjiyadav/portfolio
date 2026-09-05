@@ -1,8 +1,6 @@
 # Satyam Yadav — 3D Interactive Distributed Systems & AI Portfolio
 
-> **Production-Grade Interactive WebGL Experience for Backend, Distributed Systems & AI Engineering.**
-
-An ultra-performant, 3D interactive engineering portfolio engineered for **Satyam Yadav** (Software Development Engineer - Backend & Distributed Systems). Built with **Vite, React 18, TypeScript, Three.js, React Three Fiber, Tailwind CSS, and Framer Motion**. Features a live interactive distributed architecture simulator, real-time WebGL distributed node lattice, production telemetry logs, an interactive hacker CLI terminal, and a cryptographically secured administrative control plane.
+> **Hi, I'm Satyam Yadav. This is my personal interactive 3D portfolio and distributed systems showcase, built with Vite, React 18, TypeScript, Three.js, React Three Fiber, and Tailwind CSS.**
 
 ---
 
@@ -17,16 +15,17 @@ An ultra-performant, 3D interactive engineering portfolio engineered for **Satya
 
 ---
 
-## 🚀 Overview
+## 🚀 About This Project
 
-Most software developer portfolios are static landing pages or generic frontend templates that fail to showcase the true depth of a **Backend & Distributed Systems Engineer**.
+I am a Backend & Distributed Systems Engineer passionate about building robust, production-grade architectures and modern AI platforms. 
 
-This portfolio is architected from the ground up as a **"High-Scale Distributed Systems & Neural Engine"**:
-- 🌌 **Real-Time 3D WebGL Distributed Core**: A Three.js interactive lattice rendering the 6 foundational nodes of modern high-scale architecture (`API Gateway`, `Event Stream`, `Worker Fleet`, `Vector Engine`, `ACID Storage`, `In-Memory Cache`) around a central `SYSTEM KERNEL`.
-- ⚡ **Interactive Distributed Architecture Simulator**: Enables recruiters and engineering managers to execute mock transaction and vector search flows, witnessing animated packet travel, stage-by-stage latencies, and streaming telemetry logs.
-- 🏢 **Production Impact Logs**: Highlights real-world high-scale metrics: **100K+ daily settlements**, **99.8% recovery time reduction**, **zero event loss across 30 Kafka partitions**, and **48 instrumented API routes**.
-- 🚀 **Flagship Projects Showcase**: Deep-dive architecture breakdowns for **PayFast** (Go, Kafka, Double-Entry Ledger) and **VaultMind** (FastAPI, PGVector, 384-dim HNSW, Gemini 3.1).
-- 🔒 **Cryptographic Admin Portal**: Zero-plaintext SHA-256 authenticated control panel for dynamic PDF resume replacement, project addition, and JSON backup exports.
+I designed and built this portfolio to showcase my engineering work, system design principles, and production impact in an interactive, visual format:
+
+- 🌌 **Real-Time 3D Distributed Core**: A Three.js interactive lattice that visualizes the 6 foundational layers of modern distributed backends (`API Gateway`, `Event Stream`, `Worker Fleet`, `Vector Engine`, `ACID Storage`, `In-Memory Cache`) synchronized around a central `SYSTEM KERNEL`.
+- ⚡ **Live Distributed Architecture Simulator**: An interactive simulator where you can execute mock transaction and vector search flows, observing animated packet propagation, stage-by-stage latencies, and streaming telemetry logs in real time.
+- 🏢 **Production Impact Logs**: Highlights from my work engineering high-throughput backend services: **100K+ daily settlements**, **99.8% recovery time reduction**, and **zero event loss across 30 Kafka partitions**.
+- 🚀 **Flagship Projects**: Architectural breakdowns and live deployments for **PayFast** (distributed event-driven payment processor in Go & Kafka) and **VaultMind** (enterprise multi-tenant RAG platform in Python, FastAPI, and PGVector).
+- 🔒 **Cryptographic Admin Control Plane**: A client-side SHA-256 authenticated control panel built using the Web Crypto API, allowing dynamic resume updates and project management without redeploying code.
 
 ---
 
